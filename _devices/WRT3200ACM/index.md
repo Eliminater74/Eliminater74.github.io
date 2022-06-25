@@ -1,7 +1,7 @@
 ---
 layout: device
 title: Linksys Rango (Linksys WRT3200ACM)
-subtitle: WRT3200ACM
+subtitle: WRT3200ACM Device
 permalink: /devices/WRT3200ACM/
 ---
 
