@@ -16,6 +16,11 @@ author: Eliminater74
 navbar-links:
   Linksys Devices:
     - Linksys Rango (Linksys WRT3200ACM): "devices/WRT3200ACM"
+    - Linksys Venom (Linksys WRT32X): "devices/WRT32X"
+    - Linksys Mamba (Linksys WRT1900AC v1): "devices/WRT1900AC_v1"
+    - Linksys Cobra (Linksys WRT1900AC v2): "devices/WRT1900AC_v2"
+    - Linksys Shelby (Linksys WRT1900ACS v1): "devices/WRT1900ACS_v1"
+    - Linksys Caiman (Linksys WRT1200AC): "devices/WRT1200AC"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
