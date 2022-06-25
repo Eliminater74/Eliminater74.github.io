@@ -1,5 +1,5 @@
 ---
-layout: Linksys Router
+layout: Linksys
 title: Linksys Rango (Linksys WRT3200ACM)
 subtitle: WRT3200ACM
 date: 06/25/2022
