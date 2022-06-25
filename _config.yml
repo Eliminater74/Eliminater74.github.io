@@ -14,6 +14,8 @@ author: Eliminater74
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Linksys Devices:
+    - Linksys Rango (Linksys WRT3200ACM): "devices/WRT3200ACM"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
