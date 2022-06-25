@@ -9,4 +9,4 @@ comments: true
 ---
 
 **purefusion-wrt-snapshot-r19910+9-530c0a2068-mvebu-cortexa9-linksys_wrt3200acm-squashfs-sysupgrade.bin** 
-[purefusion-wrt-snapshot-r19910+9-530c0a2068-mvebu-cortexa9-linksys_wrt3200acm-squashfs-sysupgrade.bin](https://github.com/DevOpenWRT-Router/Action_OpenWRT_AutoBuild_Linksys_Devices-TEST/releases/download/wrtmulti-2022.06.25-1006/purefusion-wrt-snapshot-r19910+9-530c0a2068-mvebu-cortexa9-linksys_wrt3200acm-squashfs-sysupgrade.bin)
+[Download](https://github.com/DevOpenWRT-Router/Action_OpenWRT_AutoBuild_Linksys_Devices-TEST/releases/download/wrtmulti-2022.06.25-1006/purefusion-wrt-snapshot-r19910+9-530c0a2068-mvebu-cortexa9-linksys_wrt3200acm-squashfs-sysupgrade.bin)
